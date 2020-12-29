@@ -1,5 +1,6 @@
-#The 3-axis machine has been designed according to 10000 hours’ service life and chain store of 80 tools.
-#Tabletop:640 mm×500 mm
+The 3-axis machine has been designed according to 10000 hours’ service life and chain store of 80 tools
+
+Tabletop:640 mm×500 mm
 Working Envelope (X,Y,Z stroke):640 mm× 500 mm× 500 mm
 Max. feed force / speed / acceleration:10 kN / 30 m/min / 10 m/s2
 Speed of fast motion:60 m/min
